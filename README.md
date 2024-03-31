@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, Sou Larissa</h1>
-<h3 align="center">Sou estudante de Engenharia Mecatrônica na UNIMA</h3>
+<h1 align="center">Olá 👋, Bem-vindos ao meu perfil!!</h1>
+<h3 align="center">Estudante de Engenharia Mecatrônica na UNIMA</h3>
 
-- 🌱 Estou me aprofundando atualmente em Frameworks e Visão Computacional **DJANGO, OPENCV**
+- 🌱 Me aprofundando atualmente em **DJANGO** para criação de dashboard. Também em visão computacional, mais precisamente na biblioteca **OPENCV** e seus algoritmos.
 
-- 👯 Estou realizando um projeto de Iniciação Científica utilizando visão computacional **TrashBot Residencial**
+- 👯 Desenvolvo projeto de Iniciação Científica de uma **TrashBot Residencial**, utilizando **Yolo V8**.
 
 - 📫 Entre em contato comigo! **larissa.casado2022@gmail.com**
 
