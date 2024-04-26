@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Bem-vindos ao meu perfil!!</h1>
 <h3 align="center">Estudante de Engenharia Mecatrônica na UNIMA</h3>
 
-- 🌱 Me aprofundando atualmente em **DJANGO** para criação de dashboard. Também em visão computacional, mais precisamente na biblioteca **OPENCV** e seus algoritmos.
+- 🌱 Me aprofundando atualmente em **PYTHON** focado em automação de processos. Também venho construindo um projeto de visão computacional e aprendendo mais sobre, mais precisamente na biblioteca **OPENCV** e seus algoritmos.
 
 - 👯 Desenvolvo projeto de Iniciação Científica de uma **TrashBot Residencial**, utilizando **Yolo V8**.
 
