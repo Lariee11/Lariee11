@@ -26,7 +26,6 @@
 - Treinamento de modelo com dataset personalizado
 - Processamento em tempo real usando OpenCV
 - Aplicação para reconhecimento de **garrafas, latas, papelão, bitucas de cigarro** e mais
-- [🔗 Repositório do Projeto](#)
 
 ---
 
@@ -35,14 +34,14 @@
 - Integração com APIs e bancos de dados
 - Processos automatizados para engenharia e IoT
 - Software de geração de documentações padronizadas em LaTex
+  
 ---
 
 ### ⚙️ **Projetos de Mecatrônica**
 - Integração de sensores (DHT11, LDR, ultrassônico)
 - Controle de motores DC e servos
 - Sistemas embarcados com ESP32 e Arduino
-- [🔗 Repositório do Projeto](#)
-
+  
 ---
 
 ## 📊 Estatísticas do GitHub
